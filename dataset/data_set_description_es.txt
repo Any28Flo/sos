@@ -1,6 +1,6 @@
 Nombre:
 Tipo: Censo
-Tamaño:
+Tamaño: 29440 registros 
 
 Resumen descriptivo:
 
@@ -8,6 +8,27 @@ Recurso: datos.gob.mx "Victimas de " Online. Internet.
 n.p. 08 Nov 2018 Availabe "https://datos.gob.mx/busca/dataset/victimas-de-homicidio-secuestro-y-extorsion/resource/ff31cf92-6d71-4942-9255-a0ef1cbb89a2"
 
 Descripción de las variables:
+
+Año :           Periodo de tiempo donde se guardaron los datos.
+Clave_Ent:      Clave de la entidad donde sucedio el delito.
+Bien juridico afectado:
+Tipo de delito:
+Subtipo de delito:
+Modalidad:
+Sexo:
+Rango de edad
+Enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Septiembre
+Octubre
+Noviembre
+Diciembre:
 
 
 LICENCE : LIBRE USO MX
